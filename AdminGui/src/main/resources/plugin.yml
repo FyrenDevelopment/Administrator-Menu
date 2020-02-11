@@ -1,0 +1,10 @@
+name: AdminGUI
+author: FyrenGaming - CJ
+version: 1.0.0 - Developmental
+main: me.FyrenDev.AdminGUI.Main
+api-version: 1.14
+commands:
+  AdminMenu:
+    usage: /AdminMenu
+    description: Allows administrators to use a simple and easy to use GUI to handle tasks.
+    aliases: [AM, am, AdministrationMenu, aMenu, amenu]
